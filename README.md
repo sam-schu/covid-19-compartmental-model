@@ -5,6 +5,8 @@ optional visual display) to
 simulate the spread of COVID-19 through a population, and the effects of
 masks and self-isolation on this spread.
 
+[View a demonstration video here!](https://www.youtube.com/watch?v=OvAe2XQ7rRM)
+
 ### Purpose
 
 This program does not aim to be a fully accurate simulation of the
